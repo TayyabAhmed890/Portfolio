@@ -44,8 +44,8 @@ body {
 }
 .Content{
   font-family: Poppins;
+  padding-top: 20px;
   line-height: 50px;
-  /* color: white; */
   font-size: 30px;
 }
 .Content>button{
@@ -343,12 +343,14 @@ body {
     /* color: white; */
     font-size: 20px;
     text-align: left;
+    line-height: 1;
   }
   .P-links{
     display: flex;
     justify-content: left;
   }
   .Content>button{
+    margin-top: 10px;
     padding:10px 20px;
     font-size: 15px;
     font-family: Montserrat;
