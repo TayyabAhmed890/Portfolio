@@ -1,5 +1,4 @@
 .header {
-  transition: 1s ease-in;
   font-family: Montserrat;
 }
 .nav{
@@ -94,7 +93,6 @@
     position: absolute;
     top: 7%;
     width: 90%;
-    display: flex;
     justify-content: end;
     flex-direction: column;
     overflow: hidden;
