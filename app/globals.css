@@ -12,6 +12,7 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-family: Montserrat;
 }
 
 
@@ -47,7 +48,6 @@ body {
 
 }
 .Content{
-  font-family: Poppins;
   padding-top: 20px;
   line-height: 50px;
   font-size: 30px;
@@ -61,7 +61,12 @@ body {
   background-color:rgb(185, 111, 255) ;
   color:rgb(24, 0, 46) ;
 }
+.Content>h2{
+
+  font-family: Poppins;
+}
 .span{
+  font-family: Poppins;
   color: rgb(185, 111, 255);
 }
 .Image{
@@ -99,6 +104,7 @@ body {
 }
 .sr-child>h2{
   font-size: 40px;
+  font-family: poppins;
 }
 .sr-child>p{
   font-weight: 300;
